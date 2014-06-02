@@ -12,7 +12,7 @@ It might be useful to also port the machine vision processing for **STEP 2** and
 
 **STEP 2**: Machine vision processing to obtain measurements
 
-**STEP 3**: Normalize measurements to frames of 49 data points for each measurement type
+**STEP 3**: Normalize measurements from frames to 49 data points per frame for each measurement type
 
 **STEP 4**: Stitch the "blocks" into one .mat file.
 
